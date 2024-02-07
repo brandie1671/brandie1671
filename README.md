@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @brandie1671
-- 👀 I’m interested in data science, AI, and Machine Learning
-- 🌱 I’m currently learning Artificial Intelligence and Data Analysis
+- 👀 I’m interested in Machine Learning and programming.
+- 🌱 I’m currently learning Machine Learning and Data Analysis
 - 💞️ I’m looking to collaborate on creating an AI model
 - 📫 How to reach me nyakundijoseph00@gmail.com
 - 😄 Pronouns: He/ Him
